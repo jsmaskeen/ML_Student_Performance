@@ -9,3 +9,4 @@
 4. Implemented K fold regression from scratch to better train the model.
 5. Lastly, looked at the Linear Regression provided by `scikit-learn` library.
 
+### Colab link: [Google Colab](https://colab.research.google.com/drive/1XaQLKzgI8RHz1Jv3EJ7CA1jHWdxsnO-C?usp=sharing)
